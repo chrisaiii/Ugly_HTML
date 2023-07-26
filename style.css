@@ -1,0 +1,121 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    background-color: #3D5690;
+    text-align: center;
+    color: #F3D16B;
+    margin: 30px;
+    padding: 15px;
+}
+
+h2 {
+    font-family: "Courier New";
+    margin: 30px;
+    color: #FFFFFF;
+}
+
+.list {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    margin: 30px;
+    color: #FFFFFF;
+}
+
+#starters_image_div {
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #starters_image_div img {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    border: 5px solid #3D5690;
+    padding: 10px; 
+    box-sizing: border-box;
+  }
+  
+
+.each_pokemon_container {
+    text-align: center;
+}
+
+.each_pokemon_container .pokemon_images {
+    width: 150px;
+    padding-top: 40px;
+}
+
+#bulbasaur_container {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    background-color: #66B17A;
+    border: 2px solid #EFE27F;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 30px;
+}
+
+#bulbasaur_container h3 {
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+#bulbasaur_container p {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+#charmander_container {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    background-color: #E0AD63;
+    border: 2px solid #EFE27F;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 30px;
+}
+
+#charmander_container h3 {
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+#charmander_container p {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+#squirtle_container {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    background-color: #9DE0EE;
+    border: 2px solid #EFE27F;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 30px;
+}
+
+#squirtle_container h3 {
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+#squirtle_container p {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+footer {
+    color: #FFFFFF;
+    padding: 20px; 
+    margin-top: 60px;
+    margin-left: 15px;
+}
